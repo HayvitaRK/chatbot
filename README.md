@@ -1,5 +1,5 @@
 # my-Chatbot
-created using php and mysql and using xampp to run.
+created using php and mysql and xampp to run.
 
 
 ![op1](https://user-images.githubusercontent.com/92157076/212389070-a9961e97-2db7-44d4-999e-b051b63d3893.JPG)
